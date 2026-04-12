@@ -15,5 +15,4 @@ RQ05: What actionable insights can be provided to businesses?
 **Objectives & Expected Outcomes** aligned with the proposal.
 
 **Author**
-
-M.R.M. Musharraf
+- M.R.M. Musharraf

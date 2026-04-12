@@ -3,7 +3,7 @@
 **Student:** M.R.M. Musharraf (20APC5036)  
 **Supervisor:** Mr. Y.M.S. Tharaka  
 **University:** Sabaragamuwa University of Sri Lanka  
-**Project Code:** IS 8101
+**Project Code:** IS8101
 
 **Research Questions**  
 RQ01: How can a hybrid model improve multi-class issue detection?  
